@@ -741,6 +741,10 @@ http://www.tooplate.com/view/2106-soft-landing
 
   @media screen and (max-width: 767px) {
 
+    .testimonial-image,
+    .testimonial-info {
+      height: 55vh;
+    }
     .section-title {
       padding-bottom: 20px;
     }
